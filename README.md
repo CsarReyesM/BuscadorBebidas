@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+# Deply netlify 
+url = https://practical-visvesvaraya-0fa9b9.netlify.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
